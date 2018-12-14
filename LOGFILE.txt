@@ -1,2 +1,3 @@
 Setup Log for Git
 Init.bat was run at Thu 12/13/2018 21:29:37.57 
+Init.bat was run at Thu 12/13/2018 21:30:04.84 
