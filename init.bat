@@ -17,5 +17,4 @@ echo Deleting Dummy file: %DATE% %TIME% > datetime.txt
 git commit -F datetime.txt
 del datetime.txt
 git pull
-git push	
-cmd /k
+git push
