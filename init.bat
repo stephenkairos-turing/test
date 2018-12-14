@@ -3,6 +3,7 @@ git config --global user.email "stephenkairos.reyes@sjsu.edu"
 git config --global user.name "StephenKairos"
 echo Dummy File to Force Login Sequence > dummy.txt
 git add .
+echo Init.bat was run at %DATE% %TIME% >> LOGFILE.txt
 echo Committing Dummy File: %DATE% %TIME% > datetime.txt
 echo Forcing Login Sequence...
 git commit -F datetime.txt
