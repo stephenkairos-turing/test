@@ -1,6 +1,6 @@
 echo Initializing Identity for New Machine
-git config --global user.email "stephenkairos.reyes@sjsu.edu"
-git config --global user.name "StephenKairos"
+git config --global user.email "stephen@turing.com"
+git config --global user.name "stephenkairos-turing"
 echo Dummy File to Force Login Sequence > dummy.txt
 git add .
 echo Init.bat was run at %DATE% %TIME% >> LOGFILE.txt
